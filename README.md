@@ -23,30 +23,16 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 
 ---
 
-## Circuits Implemented
-### Logic Gates
-- AND Gate
-- OR Gate
-- NOT Gate
-- NAND Gate
-- NOR Gate
-- XOR Gate
-
-### Combinational Circuits
-- Half Adder
-- Full Adder
-
----
-
 ## Files Included
 
 | File Name | Description |
 |------------|-------------|
-| logic_gates.v | Verilog code for logic gates |
-| half_adder.v | Half adder Verilog code |
-| full_adder.v | Full adder Verilog code |
-| tb_half_adder.v | Testbench for half adder |
-| tb_full_adder.v | Testbench for full adder |
+| ALL_IN_ONE.v | Verilog code for logic gates |
+| HALF_ADDER.v | Half adder Verilog code |
+| FULL_ADDERr.v | Full adder Verilog code |
+| ALL_IN_ONE_TB.v | Simulation and waveform outputs |
+| HALF_ADDER_TB.v | Testbench for half adder |
+| FUL_ADDER_TB.v | Testbench for full adder |
 | screenshots/ | Simulation and waveform outputs |
 
 ---
@@ -60,8 +46,29 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 
 ---
 
-## Expected Outputs
-### Half Adder Truth Table
+# Logic Gates Implementation
+
+## Verilog Code
+Implemented:
+- AND Gate
+- OR Gate
+- NOT Gate
+- NAND Gate
+- NOR Gate
+- XOR Gate
+
+## Output Waveform
+
+![Logic Gates Output](screenshots/logic_gates_waveform.png)
+
+---
+
+# Half Adder Design
+
+## Verilog Code
+Half Adder performs binary addition of two bits.
+
+### Truth Table
 
 | A | B | Sum | Carry |
 |---|---|---|---|
@@ -70,7 +77,19 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 |1|0|1|0|
 |1|1|0|1|
 
-### Full Adder Truth Table
+## Simulation Output
+
+![Half Adder Waveform](screenshots/half_adder_waveform.png)
+
+---
+
+# Full Adder Design
+
+## Verilog Code
+Full Adder adds three input bits including carry input.
+
+
+### Truth Table
 
 | A | B | Cin | Sum | Cout |
 |---|---|---|---|---|
@@ -82,6 +101,10 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 |1|0|1|0|1|
 |1|1|0|0|1|
 |1|1|1|1|1|
+
+## Simulation Output
+
+![Full Adder Waveform](screenshots/full_adder_waveform.png)
 
 ---
 
