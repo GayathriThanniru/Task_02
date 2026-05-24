@@ -49,13 +49,10 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 # Logic Gates Implementation
 
 ## Verilog Code
-Implemented:
-- AND Gate
-- OR Gate
-- NOT Gate
-- NAND Gate
-- NOR Gate
-- XOR Gate
+![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE.jpg)
+
+## Verilog Code
+![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_TB.jpg)
 
 ## Output Waveform
 
