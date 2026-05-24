@@ -33,7 +33,7 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 | ALL_IN_ONE_TB.v | Simulation and waveform outputs |
 | HALF_ADDER_TB.v | Testbench for half adder |
 | FUL_ADDER_TB.v | Testbench for full adder |
-| screenshots/ | Simulation and waveform outputs |
+| SCREENSHOTS/ | Simulation and waveform outputs |
 
 ---
 
@@ -59,7 +59,7 @@ Implemented:
 
 ## Output Waveform
 
-![Logic Gates Output](screenshots/logic_gates_waveform.png)
+![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_G.png)
 
 ---
 
