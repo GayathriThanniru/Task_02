@@ -51,11 +51,10 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 ## Verilog Code
 ![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE.jpg)
 
-## Verilog Code
+## TestBench Code
 ![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_TB.jpg)
 
-## Output Waveform
-
+## Simulation Output Waveform
 ![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_G.jpg)
 
 ---
@@ -63,7 +62,11 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 # Half Adder Design
 
 ## Verilog Code
-Half Adder performs binary addition of two bits.
+![Logic Gates Output](SCREENSHOTS/HALF_ADDER.jpg)
+
+## TestBench Code
+![Logic Gates Output](SCREENSHOTS/HALF_ADDER_TB.jpg)
+
 
 ### Truth Table
 
@@ -74,16 +77,19 @@ Half Adder performs binary addition of two bits.
 |1|0|1|0|
 |1|1|0|1|
 
-## Simulation Output
+## Simulation Output Waveform
 
-![Half Adder Waveform](screenshots/half_adder_waveform.png)
+![Half Adder Waveform](SCREENSHOTS/HALF_ADDER_G.jpg)
 
 ---
 
 # Full Adder Design
 
 ## Verilog Code
-Full Adder adds three input bits including carry input.
+![Logic Gates Output](SCREENSHOTS/FUL_ADDER.jpg)
+
+## TestBench Code
+![Logic Gates Output](SCREENSHOTS/FUL_ADDER_TB.jpg)
 
 
 ### Truth Table
@@ -99,9 +105,9 @@ Full Adder adds three input bits including carry input.
 |1|1|0|0|1|
 |1|1|1|1|1|
 
-## Simulation Output
+## Simulation Output Waveform
 
-![Full Adder Waveform](screenshots/full_adder_waveform.png)
+![Full Adder Waveform](SCREENSHOTS/FUL_ADDER_G.jpg)
 
 ---
 
@@ -116,3 +122,4 @@ Full Adder adds three input bits including carry input.
 
 ## Author
 Gayathri Thanniru
+VLSI Intern
