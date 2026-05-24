@@ -86,10 +86,11 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 # Full Adder Design
 
 ## Verilog Code
-![Logic Gates Output](SCREENSHOTS/FUL_ADDER.jpg)
+![Logic Gates Output](SCREENSHOTS/FUl
+LL_ADDER.jpg)
 
 ## TestBench Code
-![Logic Gates Output](SCREENSHOTS/FUL_ADDER_TB.jpg)
+![Logic Gates Output](SCREENSHOTS/FULL_ADDER_TB.jpg)
 
 
 ### Truth Table
@@ -107,7 +108,7 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 
 ## Simulation Output Waveform
 
-![Full Adder Waveform](SCREENSHOTS/FUL_ADDER_G.jpg)
+![Full Adder Waveform](SCREENSHOTS/FULL_ADDER_G.jpg)
 
 ---
 
@@ -122,4 +123,5 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 
 ## Author
 Gayathri Thanniru
+
 VLSI Intern
