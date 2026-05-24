@@ -59,7 +59,7 @@ Implemented:
 
 ## Output Waveform
 
-![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_G.png)
+![Logic Gates Output](SCREENSHOTS/ALL_IN_ONE_G.jpg)
 
 ---
 
