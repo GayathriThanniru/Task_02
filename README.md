@@ -86,8 +86,7 @@ The task focuses on learning Verilog HDL and RTL design concepts by implementing
 # Full Adder Design
 
 ## Verilog Code
-![Logic Gates Output](SCREENSHOTS/FUl
-LL_ADDER.jpg)
+![Logic Gates Output](SCREENSHOTS/FULL_ADDER.jpg)
 
 ## TestBench Code
 ![Logic Gates Output](SCREENSHOTS/FULL_ADDER_TB.jpg)
